@@ -49,7 +49,7 @@ msgstr "Commande fournisseur"
 #. module: purchase_no_rfq
 #: model_terms:ir.ui.view,arch_db:purchase_no_rfq.report_purchaseorder_document
 msgid "Purchase Order #"
-msgstr "Numéro de Bon de Commande"
+msgstr "Bon de Commande #"
 
 #. module: purchase_no_rfq
 #: selection:purchase.order,state:0
